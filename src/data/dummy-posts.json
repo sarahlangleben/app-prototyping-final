@@ -1,0 +1,14 @@
+{
+    "post1":{
+        "content":"How long is the bus ride from Ithaca to New York?",
+        "timestamp":"Tuesday, May 2nd, 3:29 PM",
+        "id":"1",
+        "route":"/forum-thread/1"
+    },
+    "post2":{
+        "content":"How many days a year is it sunny in Ithaca?",
+        "timestamp":"Friday, October 13th, 6:00 PM",
+        "id":"2",
+        "route":"/forum-thread/2"
+    }
+}

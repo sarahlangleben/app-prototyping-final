@@ -1,0 +1,24 @@
+@import './base.css';
+
+#app {
+  width: 100vw;
+  height: 100vh;
+  /* overflow-x: hidden; */
+  /* overflow-y: scroll; */
+  margin: 0 auto;
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+}
+
+.swipe-modal-takumaru-vue-swipe-modal {
+  z-index: 1050 !important;
+}
+
+.swipe-modal-takumaru-vue-swipe-modal .modal-contents-chip {
+  height: 4px !important;
+}
